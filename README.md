@@ -1,0 +1,4 @@
+spfilter
+========
+
+SPFilter class
